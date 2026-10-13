@@ -1,0 +1,15 @@
+{
+  "artist": "Taylor Swift",
+  "albums": [
+    {
+      "title": "Midnights",
+      "year": 2022,
+      "tracks": 13
+    },
+    {
+      "title": "1989",
+      "year": 2014,
+      "tracks": 13
+    }
+  ]
+}   
